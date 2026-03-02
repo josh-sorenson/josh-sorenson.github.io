@@ -66,6 +66,9 @@ Insight Manufacturing, Logan, UT | April - November 2022
 * Hybrid rocket propulsion systems
 * Test stand design and operation
 
+**Languages:**
+* Proficient in Portuguese
+
 ## Education
 
 **Master of Science, Aerospace Engineering**  
@@ -98,5 +101,3 @@ The Church of Jesus Christ of Latter-Day Saints, Piracicaba, Sao Paulo, Brazil |
 ## Publications
 
 For a complete list of my publications with abstracts and downloadable PDFs, please visit my [Publications page](/publications/).
-**Languages:**
-* Proficient in Portuguese
