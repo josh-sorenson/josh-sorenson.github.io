@@ -41,17 +41,46 @@ Utah State University Propulsion Research Laboratory, Logan, UT | May 2024 – P
 * Support testing and development of other lab programs and student thesis research projects
 * Design motor components and machine them using lathe and mill for use in testing
 
-**Propulsion Engineering Assistant / Engineering Assistant**  
-Space Dynamics Laboratory, Logan, UT | November 2022 – December 2025
+**Propulsion Engineering Assistant**  
+Space Dynamics Laboratory, Logan, UT | September 2024 – December 2025
 * Distilled and handled high-test hydrogen peroxide for use in catalyst testing
 * Created test procedures for catalyst and thruster throughput testing
 * Worked in a team to develop a metal additive manufactured tank to house propellant for small satellites
-* Conducted trade studies to determine best method for closure of AM propellant tank (welding, brazing, etc.)
+* Conducted trade study to determine best method for closure of AM propellant tank (welding, brazing, etc.)
+* Complied to AS9100 and ISO9001 standards with document management and daily practices
 * Supported multiple IR&D projects to progress internal technology
+
+**Engineering Assistant**  
+Space Dynamics Laboratory, Logan, UT | November 2022 – September 2024
 * Assisted in development of critical spaceflight hardware
-* Performed various tests and created reports for thermal straps including mechanical and thermal to customer specification
+* Performed various tests for thermal straps including mechanical and thermal to customer specification
+* Analyzed data from tests and created reports for customers
+* Operated and maintained thermal vacuum chambers
 * Coordinated work between engineering, QA, machine shop, and contamination control
-* Navigated to AS9100 and ISO9001 standards with document management and daily practices
+* Used problem solving skills to overcome unforeseen challenges and deliver products on time
+* Trained new employees in all aforementioned areas
+
+**Welder**  
+Insight Manufacturing, Logan, UT | April - November 2022
+* Developed proficiency in MIG welding by welding cattle fence panels and steel coils
+* Improved ability to operate heavy machinery by running and repairing steel mills and forklifts
+* Assembled trampolines by pressing and punching parts, gathering and organizing pieces, and packaging parts in an assembly line
+
+## Related Projects
+
+* Worked in a team of six to bring a desiccant adhesive to market
+* Worked in a team of four to upgrade a testing apparatus for the SDL Thermal Straps team
+* Worked in a team of four to write a formal proposal and deliver presentation for a farm surveillance drone
+* Worked in a team to design a prototype drone in SolidWorks that acts as a security guard in private residencies
+
+## Volunteer Work
+
+**Volunteer/Missionary**  
+The Church of Jesus Christ of Latter-Day Saints, Piracicaba, Sao Paulo, Brazil | July 2018 – March 2020
+* Assisted in development of critical spaceflight hardware
+* Performed various tests for thermal straps including mechanical and thermal to customer specification
+* Analyzed data from tests and created reports fo
+
 
 ## Publications
 
