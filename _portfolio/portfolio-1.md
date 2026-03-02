@@ -1,6 +1,6 @@
 ---
 title: "Plume-Surface-Interaction Hybrid Rocket"
-excerpt: "Utah State University Propulsion Research Laboratory<br/><img src='/images/PSI.jpg'>"
+excerpt: "Utah State University Propulsion Research Laboratory <br/><img src='/images/PSI.jpg'>"
 collection: portfolio
 ---
 
