@@ -9,19 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-
-**Master of Science, Aerospace Engineering**  
-Utah State University, Logan, UT | Expected May 2026
-* Key courses: Optimal Spacecraft Guidance, Combustion, Propulsion II, Fluid Dynamics
-* Financed education by working 30+ hours a week
-* Researcher of the Year Candidate
-
-**Bachelor of Science, Mechanical Engineering** (Aerospace Emphasis)  
-Utah State University, Logan, UT | May 2025
-* Institutional GPA: 3.80
-* Magna Cum Laude Award
-* Key courses: Compressible Fluids, Propulsion I, Dynamics of Spaceflight
 
 ## Work Experience
 
@@ -66,6 +53,33 @@ Insight Manufacturing, Logan, UT | April - November 2022
 * Improved ability to operate heavy machinery by running and repairing steel mills and forklifts
 * Assembled trampolines by pressing and punching parts, gathering and organizing pieces, and packaging parts in an assembly line
 
+## Skills
+
+**Software & CAD:**
+* MATLAB, C, Python, LabVIEW, MathCAD
+* Fusion 360, SolidWorks, Solid Edge, Onshape
+* Design for Additive Manufacturing (DfAM)
+
+**Technical Skills:**
+* MIG Welding, TIG Welding
+* Lathe, Mill, Soldering
+* Hybrid rocket propulsion systems
+* Test stand design and operation
+
+## Education
+
+**Master of Science, Aerospace Engineering**  
+Utah State University, Logan, UT | Expected May 2026
+* Key courses: Optimal Spacecraft Guidance, Combustion, Propulsion II, Fluid Dynamics
+* Financed education by working 30+ hours a week
+* Researcher of the Year Candidate
+
+**Bachelor of Science, Mechanical Engineering** (Aerospace Emphasis)  
+Utah State University, Logan, UT | May 2025
+* Institutional GPA: 3.80
+* Magna Cum Laude Award
+* Key courses: Compressible Fluids, Propulsion I, Dynamics of Spaceflight
+
 ## Related Projects
 
 * Worked in a team of six to bring a desiccant adhesive to market
@@ -84,19 +98,5 @@ The Church of Jesus Christ of Latter-Day Saints, Piracicaba, Sao Paulo, Brazil |
 ## Publications
 
 For a complete list of my publications with abstracts and downloadable PDFs, please visit my [Publications page](/publications/).
-
-## Skills
-
-**Software & CAD:**
-* MATLAB, C, Python, LabVIEW, MathCAD
-* Fusion 360, SolidWorks, Solid Edge, Onshape
-* Design for Additive Manufacturing (DfAM)
-
-**Technical Skills:**
-* MIG Welding, TIG Welding
-* Lathe, Mill, Soldering
-* Hybrid rocket propulsion systems
-* Test stand design and operation
-
 **Languages:**
 * Proficient in Portuguese
