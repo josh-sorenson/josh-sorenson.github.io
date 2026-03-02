@@ -77,10 +77,9 @@ Insight Manufacturing, Logan, UT | April - November 2022
 
 **Volunteer/Missionary**  
 The Church of Jesus Christ of Latter-Day Saints, Piracicaba, Sao Paulo, Brazil | July 2018 – March 2020
-* Assisted in development of critical spaceflight hardware
-* Performed various tests for thermal straps including mechanical and thermal to customer specification
-* Analyzed data from tests and created reports fo
-
+* Managed 15+ people in organized service
+* Contacted 20+ people a day working 80 hours a week
+* Spoke publicly to 150-200 people in Portuguese on a monthly basis
 
 ## Publications
 
